@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+.idea/
+target/
+*.iml
+# Datasource local storage ignored files
+/../../../../../../../:\IHOR\EAPprojects\HW\hw20\eureka-server-project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
